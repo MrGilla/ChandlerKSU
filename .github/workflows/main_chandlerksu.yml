@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ChandlerKSU'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2CB1AC9DFD05439AB98E7FA7259DDCE6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C697E5E93DC74C7BA64741F602717F6C }}
           package: .
